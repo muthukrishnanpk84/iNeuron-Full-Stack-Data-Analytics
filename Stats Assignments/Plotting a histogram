@@ -1,5 +1,0 @@
-import matplotlib.pyplot as plt
-
-x = [10, 13, 18, 22, 27, 32, 38, 40, 45, 51, 56, 57, 88, 90, 92, 94, 99]
-plt.hist(x,bins=5)
-plt.show()
